@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "chintu",
+            "email": "chintu@gmail.com",
+            "age": 40,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "sai",
+            "email": "chintusai636@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "lokesh",
+            "email": "lokesh@123gmail.com",
+            "age": 17,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "ajay",
+            "email": "ajay143@gmail.com",
+            "age": 23,
+            "sex": "Male",
+            "password": "123"
+        }
+    ]
+}
